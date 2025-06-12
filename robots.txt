@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prajnasoni.github.io/sitemap.xml
