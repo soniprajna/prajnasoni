@@ -28,7 +28,7 @@ permalink: /cv/
 &nbsp;
 
 ##### Graduate Research Assistant — [MIT CSAIL Algorithmic Alignment Group](https://algorithmicalignment.csail.mit.edu)
-*Cambridge, MA | Mar 2023 – Aug 2024*  
+*Cambridge, MA | Mar 2023 – May 2024*  
 **Summary:** Researched decentralized evaluation frameworks for algorithmic systems with a focus on language models.  
 <sub><i>_Skills: AI Alignment · User Research · AI Policy · AI Evaluation_</i></sub>
 
@@ -42,14 +42,14 @@ permalink: /cv/
 &nbsp;
 
 ##### Software Engineer Intern — [Waymo](https://waymo.com)  
-*San Francisco, CA | Jun 2023 – Aug 2023*  
+*San Francisco, CA | May 2023 – Aug 2023*  
 **Summary:** Improved safety metric reliability through probabilistic updates in simulation testing.  
 <sub><i>_Skills: Gaussian Process · Statistics · Simulation_</i></sub>
 
 &nbsp;
 
 ##### Graduate Research Assistant — [MIT Schwarzman College of Computing](https://computing.mit.edu/)  
-*Cambridge, MA | Jan 2022 – Nov 2022*  
+*Cambridge, MA | Jan 2022 – Feb 2023*  
 **Summary:** Developed and evaluated Responsible AI training curricula for cross-functional deployment in industry.  
 <sub><i>_Skills: User Research · AI Policy · Responsible AI_</i></sub>
 
