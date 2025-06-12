@@ -12,7 +12,7 @@ permalink: /cv/
   _Thesis: Addressing Misalignment in Language Model Deployments through Context-Specific Evaluations_  
 
 ##### [New York University, Abu Dhabi](https://nyuad.nyu.edu)  
-  **BS** in Mechanical Engineering**, Concentration in Computer Science, _summa cum laude_  
+  **BS** in Mechanical Engineering, Concentration in Computer Science, _summa cum laude_  
 
 
 #### Experience
