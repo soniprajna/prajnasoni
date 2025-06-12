@@ -3,8 +3,8 @@ title_left    : "Prajna "
 title_right   : "Soni" # default: ""
 description   : "Prajna Soni's personal website."
 keywords      : "AI governance, AI ethics, AI evaluations, MIT, NYU, Abu Dhabi, Mumbai, India, Prajna Soni, socio-technical, AI research"
-url           : https://soniprajna.github.io # site url
-baseurl       : "/prajnasoni.github.io" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+url           : https://prajnasoni.github.io # site url
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
@@ -29,8 +29,16 @@ sass:
 # Author settings
 author:
   name     : "Prajna Soni"
+  email    : prajna@alum.mit.edu
+
+social:
+  name: Prajna Soni
   links    :
-    - "https://www.linkedin.com/in/prajnasoni/"
+    - https://www.linkedin.com/in/prajnasoni/
+    - https://github.com/prajnasoni
+    - https://twitter.com/prajna_soni
+    - https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=OFbkEioAAAAJ
+
 
 plugins:
   - jekyll-sitemap
