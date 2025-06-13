@@ -1,5 +1,5 @@
 # Site settings
-title_left    : "Prajna "
+title_left    : "Prajna"
 title_right   : "Soni" # default: ""
 description   : "Prajna Soni's personal website."
 keywords      : "AI governance, AI ethics, AI evaluations, MIT, NYU, Abu Dhabi, Mumbai, India, Prajna Soni, socio-technical, AI research"
@@ -72,3 +72,7 @@ exclude:
   - "script"
   - "vendor"
   - "thinkspace.gemspec"
+
+
+
+

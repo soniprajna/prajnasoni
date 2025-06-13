@@ -8,19 +8,17 @@ I'm interested in exploring methodologies that help us understand and bridge the
 
 Currently thinking about: 
 
-- **Improving evaluations**
-  *e.g. how can we better measure evaluations to ensure construct validity and claim validity?*
+- **Improving Evaluations**
+  e.g. how can we better measure evaluations to ensure construct validity and claim validity?
 
 - **Context-specificity**
-  _e.g. how do we effectively operationalise evaluations in multilingual and code-switching environments?_
+  e.g. how do we effectively operationalise evaluations in multilingual and code-switching environments?
 
 - **Performance Robustness**
-  _e.g. To what extent are model behaviors stable, and hence evaluation results robust, across semantic perturbations, distribution shifts, or rephrased inputs?_
+  e.g. To what extent are model behaviors stable, and hence evaluation results robust, across semantic perturbations, distribution shifts, or rephrased inputs?
 
 
 If you're also thinking about the above, let's chat!
-
-&nbsp;
 
 &nbsp;
 

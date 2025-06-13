@@ -55,7 +55,7 @@ hr {
 }
 
 .link {
-  color: $blue-color;
+  color: $dark-green-color;
   padding-bottom: .05em;
   border-bottom: 2px solid transparent;
 
@@ -64,30 +64,56 @@ hr {
   &:hover,
   &:focus,
   &:active {
-    border-bottom: 2px solid $blue-color;
+    border-bottom: 2px solid $dark-green-color;
   }
 }
 
 .site-header {
-  border-bottom: 1px solid lighten($light-gray-color, 5%);
-  margin-bottom: $small-spacing;
-  min-height: 80px;
+  border-bottom: 0px solid lighten($light-gray-color, 5%);
+  margin-bottom: 0;
+  min-height: 70px;
 }
 
 .intro {
   .author-name {
     display: inline-block;
     padding: 0 .2em;
-    background: lighten($light-gray-color, 15%)
+    background: lighten($light-gray-color, 15%);
   }
 
   a {
     @extend .link;
+    // font-style: italic;
+    font-weight: 600;
+    font-family: $heading-font-family;
+    color: $dark-green-color;
+    text-decoration: none;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+
+    &:hover {
+      font-style: normal;
+      color: black;
+      text-decoration: underline;
+    }
   }
 
   .container {
-    padding-bottom: 0;
+    padding-bottom: 0.5em;
   }
+}
+
+.dot-divider {
+  text-align: center;
+  font-size: 0.7rem;   // adjust size as needed
+  color: $dark-green-color;  // or any color you want
+  letter-spacing: 1rem;     // space between dots
+  font-weight: bold;
+}
+
+.heading-font {
+  font-family: $heading-font-family; /* or your specific font, e.g. 'Georgia, serif' */
+  font-weight: 600; /* keep it bold if you want */
+  color: $dark-green-color; /* or any color you prefer */
 }
 
 .logo {
@@ -95,18 +121,18 @@ hr {
   margin: 0 0 1em 0;
   cursor: pointer;
   letter-spacing: 0.8px;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 28px;
-  font-weight: 300;
+  font-weight: 600;
 
   span {
-    font-weight: 700;
+    font-weight: 200;
   }
 }
 
 .nav {
-  min-height: 64px;
-  background-color: #284928; 
+  min-height: 78px;
+  background-color: $dark-green-color; 
   color: #fff7ec;
 
   .logo a {
@@ -116,7 +142,10 @@ hr {
 }
 
 .navbar {
-  float: right;
+  // float: right;
+  display: flex;
+  align-items: center;   // vertically center text
+  justify-content: flex-end;  // keep it on the right side horizontally
   margin: 0;
   position: relative;
   padding: 0;
@@ -302,7 +331,7 @@ hr {
     &:focus,
     &:active {
       border-bottom: 2px solid transparent;
-      color: $blue-color;
+      color: $light-gray-color;
     }
   }
 }
