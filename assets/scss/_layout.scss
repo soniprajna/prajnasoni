@@ -106,6 +106,13 @@ hr {
 
 .nav {
   min-height: 64px;
+  background-color: #284928; 
+  color: #fff7ec;
+
+  .logo a {
+    color: #fff7ec;
+    text-decoration: none;
+  }
 }
 
 .navbar {
@@ -123,6 +130,13 @@ hr {
 
   a {
     @extend .link;
+    color: #fff7ec;
+    text-decoration: none;
+    transition: text-decoration 0.2s ease;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 
