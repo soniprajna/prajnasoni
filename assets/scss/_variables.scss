@@ -1,7 +1,8 @@
 // Typography
-@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');
-$base-font-family: 'Overpass Mono', monospace;
-$heading-font-family: $base-font-family;
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Playfair+Display:wght@400;600;700&display=swap');
+$base-font-family: 'Lato', sans-serif;
+$heading-font-family: 'Playfair Display', serif;
 
 // Font Sizes
 $base-font-size: 1em;
